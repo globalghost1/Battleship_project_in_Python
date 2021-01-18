@@ -1,0 +1,15 @@
+astroid==2.4.2
+certifi==2020.6.20
+colorama==0.4.3
+console==0.9904
+executing==0.5.2
+ezenv==0.91
+isort==5.5.2
+lazy-object-proxy==1.4.3
+mccabe==0.6.1
+pylint==2.6.0
+six==1.15.0
+toml==0.10.1
+varname==0.4.0
+wincertstore==0.2
+wrapt==1.12.1
